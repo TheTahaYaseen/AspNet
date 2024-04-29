@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Advertisements>
+	<Ad>
+		<ImageUrl>~/Images/youtube_ad.jpg</ImageUrl>
+		<NavigateUrl>https://www.youtube.com</NavigateUrl>
+		<AlternateText>YouTube - Broadcast Yourself</AlternateText>
+		<Impressions>100</Impressions>
+		<Keyword>Google</Keyword>
+	</Ad>
+
+	<Ad>
+		<ImageUrl>~/Images/google_ad.jpg</ImageUrl>
+		<NavigateUrl>https://www.google.com</NavigateUrl>
+		<AlternateText>Google - Search the World's Information</AlternateText>
+		<Impressions>120</Impressions>
+		<Keyword>Google</Keyword>
+	</Ad>
+
+	<Ad>
+		<ImageUrl>~/Images/thetahayaseen_ad.jpg</ImageUrl>
+		<NavigateUrl>http://thetahayaseen.pythonanywhere.com</NavigateUrl>
+		<AlternateText>Your programmer buddy</AlternateText>
+		<Impressions>80</Impressions>
+		<Keyword>Python</Keyword>
+	</Ad>
+</Advertisements>
